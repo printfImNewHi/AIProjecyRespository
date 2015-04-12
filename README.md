@@ -1,0 +1,2 @@
+# AIProjecyRespository
+AI Fuzzy Project
